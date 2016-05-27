@@ -4,16 +4,21 @@
         ""
     ],
     "companyName": "thedadams",
+    "enableMultiJS": true,
     "longName": "Vertical Dials",
     "projectType": "native",
     "resources": {
         "media": []
     },
-    "sdkVersion": "2",
+    "sdkVersion": "3",
     "shortName": "Vertical Dials",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
     "uuid": "523f6e4d-5182-4b58-9158-2835ce751db3",
-    "versionCode": 1,
-    "versionLabel": "1.2",
+    "versionLabel": "1.3",
     "watchapp": {
         "watchface": true
     }
